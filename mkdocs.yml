@@ -1,2 +1,15 @@
 site_name: CAG MAP
 site_url: https://example.com/
+nav:
+    - Home: index.md
+    - About: about.md
+    - Observe: observe.md
+    - Ask: ask.md
+    - Map: map.md
+    - Model: model.md
+    - Present: present.md
+    - Debate: debate.md
+    - Enact: enact.md
+    - Monitor: monitor.md
+    - Repeat: repeat.md
+theme: readthedocs
