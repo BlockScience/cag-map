@@ -23,6 +23,14 @@ If a tree falls in a forest with no one around does it make a sound? If you run 
 
 ### Keep it simple:
 
+- Read [The Day You Became A Better Writer](https://www.scottadamssays.com/2015/08/22/the-day-you-became-a-better-writer-2nd-look/) if you want more tips on simple persuasive writing.
+
+### Clarity of purpose
+
+https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md
+
+### Structure
+
 - Keep your proposal as short as possible, but no simpler
 - Explain things as simply as possible, but no simpler
 - Pick a good title
@@ -31,7 +39,6 @@ If a tree falls in a forest with no one around does it make a sound? If you run 
 - Share diagrams and models for people to fork and explore
 - Conclude with a call to action (even if that's just asking people to provide feedback)
 - Make it easy for people to share, comment on, and engage with your proposal (see next section)
-- Read [The Day You Became A Better Writer](https://www.scottadamssays.com/2015/08/22/the-day-you-became-a-better-writer-2nd-look/) if you want more tips on simple persuasive writing.
 
 ## Tools
 
