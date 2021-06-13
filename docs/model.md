@@ -12,45 +12,44 @@
 
 ### Legibility
 
-A model is a living document. It conveys information, but you can also modify and interact with it to learn new information. As such, the results of your model are only a small part of it's value. More important is people's ability to go through your model to understand how it works, and to also modify it to explore other parameters and assumptions. For this to be possible it's important that your model is legible. This means that code is organized neatly and commented where appropriate. Check out the [insert python/cadCAD code syntax and best practices guide here] to see some examples.
+A model is a living document. It conveys information, but you can also modify and interact with it to learn new information. The results of running a model are only a small part of it's value. Most of the value comes from people's ability to explore and modify the parameters and assumptions within the model to better understand somethin. This requires your model to be legible. Check out the `[insert python/cadCAD code syntax and best practices guide here]` to see some examples.
 
-> Is your model structured so that it's easy to interact with?
-> Could people easily modify it to test your assumptions and their own?
+- Is your model structured so that it's easy to interact with?
+- Could people easily modify it to test your assumptions and their own?
 
 ### Assumptions
 
-Most models depend on external factors to be true. At the same time modeling every detail would be exhausting. The model is a representation of a thing, not the thing itself. Just like with a map, it's important to specify what you included, what you left out, and why. It's also important to specify what you're assuming to be true and/or external states/environments that you assume the model is operating within.
+Models make assumptions about the world in order to focus on the thing that is being modeled. The model is a representation of a thing, not the thing itself. Just like with a map, it's important to specify what you included, what you left out, and why. It's also important to specify what you're assuming to be true and/or external states/environments that you assume the model is operating within.
 
-> Make assumptions explicit.
-> What does your model assume or require to be true?
+- What does your model assume or require to be true?
+- Are these assumptions stated explicitly?
 
 ### Specificity
 
-What is the focus/purpose of the model?
+Specificity is opposite of assumptions. It's what the model is exploring in detail. 
 
-The opposite of assumptions: what did you choose to be specific about?
-
-Is your model specific enough that it defines the problem and the potential solution?
+- What question is the the model exploring?
+- What did you choose to be specific about in relation to this question?
+- Is your model specific enough that it defines the problem and the potential solution?
 
 ### A/B Testing
 
-[A/B testing](https://en.wikipedia.org/wiki/A/B_testing) allows you to test multiple variations of a thing.
+[A/B testing](https://en.wikipedia.org/wiki/A/B_testing) allows you to test multiple variations of a thing. This is very important if you see how a proposed solution might behave under a wide range of assumptions. Be aware that A then B is not the same as testing A and B simultaneously. Statefulness and ordering is important. The later compares A and B against the same data and this is what we're talking about when we say A/B testing.
 
-A then B != A/B 
-- statefulness and ordering is important
-- A then B is different than A/B testing
+- Test the same idea under multiple contexts.
+- Test multiple ideas within the same context.
 
 ### Data generation
 
-Generating new data (which you might not have IRL) allows you to test alternate scenarios and explore the state space more than what would be possible with historical data. 
+Models also allow you to generate new data. This can be useful if you want to test alternate scenarios and explore the state space more than what would be possible with historical data. 
 
 If your assumptions are made explicit then you can also test your model in different contexts. That way you can have a better idea of under what macro conditions your assumptions might hold.
 
 ### Reflexivity
 
-Explain dangers of reflexivity
+Reflexivity happens when multiple variables within the model feed into each other. This can create exponential amplification or suppression of metrics. This throws off wild data that makes it difficult to gain any understanding from the model. If there's any reflexivity involved make sure it's there for a very good reason and you understand exactly how it works.
 
-Are there any portions of your model that are self referential?
+- Are there any portions of your model that are self referential or that refer to each other in a loop?
 
 ## Tools
 

@@ -8,6 +8,8 @@
 
 CAG Map is inspired by Brian Douglas's Map of Control Theory (pictured above). CAG Map is currently at first draft stage. The goal is to outline the motivation, process, concepts, and some tools for computer *aided* governance. 
 
+The map is split into sections that describe the process of looking at data, asking questions, exploring solutions, presenting ideas, debating their validity, taking action, and observing results. This is inspired by the scientific process, but also quite different. The aim here is to persuade stakeholders to take action to solve a problem. As such computer *aided* governance is a political process.
+
 ## Why is a CAG MAP important?
 
 We live in an increasingly complex world. Computers can help us process and work with complex data. More and more systems are running more and more important things, and humans need to steer these systems productively. Often humans need to design and manage these systems as a group. Computer *aided* governance explores how groups of humans can use computers to understand and steer complex systems.
