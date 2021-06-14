@@ -6,7 +6,7 @@
 
 ## Overview
 
-Science wouldn't work if we ran experiments but didn't bother to record the results. Same goes for governance. If there's no feedback loop between decisions and results the decisions are going to get worse and worse. Monitoring allows you to verify the results of proposals to see if they had their intended effects. If so, great. If not, then you know what you did and what the results were and you can draft a proposal to change things and try again.
+Science wouldn't work if we ran experiments but didn't bother to record the results. Same goes for governance. There needs to be a feedback loop between decisions and results. Monitoring allows you to verify the results of proposals to see if they had their intended effects. If so, great. If not, then you know what the results were and you can draft a proposal to change things and try again.
 
 ## Concepts
 

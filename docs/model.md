@@ -12,7 +12,7 @@
 
 ### Legibility
 
-A model is a living document. It conveys information, but you can also modify and interact with it to learn new information. The results of running a model are only a small part of it's value. Most of the value comes from people's ability to explore and modify the parameters and assumptions within the model to better understand somethin. This requires your model to be legible. Check out the `[insert python/cadCAD code syntax and best practices guide here]` to see some examples.
+A model is a living document. It conveys information, but you can also modify and interact with it to learn new information. The results of running a model are only a small part of it's value. Most of the value comes from people's ability to explore and modify the parameters and assumptions within the model to better understand something. This requires your model to be legible. Check out the `[insert python/cadCAD code syntax and best practices guide here]` to see some examples.
 
 - Is your model structured so that it's easy to interact with?
 - Could people easily modify it to test your assumptions and their own?
@@ -24,11 +24,17 @@ Models make assumptions about the world in order to focus on the thing that is b
 - What does your model assume or require to be true?
 - Are these assumptions stated explicitly?
 
+### Ergodicity
+
+Visit all parts of the space that the system moves in, in a uniform and random sense. A sufficiently large collection of random samples from a process can represent the average statistical properties of the entire process. Then you understand the full range of the state space and what states are more likely with what parameters.
+
+https://en.wikipedia.org/wiki/Ergodicity
+
 ### Specificity
 
 Specificity is opposite of assumptions. It's what the model is exploring in detail. 
 
-- What question is the the model exploring?
+- What question is the model exploring?
 - What did you choose to be specific about in relation to this question?
 - Is your model specific enough that it defines the problem and the potential solution?
 

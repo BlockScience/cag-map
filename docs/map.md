@@ -10,7 +10,7 @@ A picture says a thousand words. The same is true for maps. They can convey a lo
 
 ## Concepts
 
-> Would be nice if this part had pictures of the various types of maps/diagrams.
+`Would be nice if this part had pictures of the various types of maps/diagrams.`
 
 ### Draw A Picture
 

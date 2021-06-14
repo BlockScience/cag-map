@@ -6,7 +6,9 @@
 
 ## Overview
 
-If a tree falls in a forest with no one around does it make a sound? If you run an experiment but don't share your results does it matter? Sharing is caring. The more clearly and concisely you can share your work the more people can understand and benefit from it. In the context of governance proposals this is essential. If people don't understand what you're talking about they won't be able to engage productively or intelligently, which is going to lead to frustration and lower chances of your proposal passing.
+Both political feasibility and incentive compatibility matter in socio-economic systems. Data is only half the battle. What takes priority will not just depend on who can best define the goal (strategy) and the steps to get there (tactics), but who can best communicate it and align the relevant powers around it.
+
+In the context of computer *aided* governance this is essential. If people don't understand what you're talking about they won't be able to productively or intelligently engage with your work. Less engagement leads to lower chances of your proposal passing. Making your purpose, process, and hypothesis clear is the first step towards success.
 
 ## Concepts
 
@@ -15,30 +17,33 @@ If a tree falls in a forest with no one around does it make a sound? If you run 
 - Who is the intended audience?
 - What are their incentives and why should they care about your proposal?
 - What is there level of technical sophistication? Are there any concepts or prerequisites you need to explain?
+- Are you passively posting your proposal and hoping your audience will come to you, or are you actively reaching out to your audience to get them engaged with your ideas?
 
 ### Show Your Work
 
 - Is prior knowledge required to understand the content? If so, where can people find this knowledge to better understand your content?
 - How did you arrive at your current form of thinking. Sharing the options considered in the Ask phase can help people better understand your perspective.
 
-### Keep it simple:
+### Keep It Simple
 
-- Read [The Day You Became A Better Writer](https://www.scottadamssays.com/2015/08/22/the-day-you-became-a-better-writer-2nd-look/) if you want more tips on simple persuasive writing.
-
-### Clarity of purpose
-
-https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md
+- [Get rid of extra words](https://www.scottadamssays.com/2015/08/22/the-day-you-became-a-better-writer-2nd-look/)
+- [Stay focused on a clear and unambiguous purpose](https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md)
 
 ### Structure
 
-- Keep your proposal as short as possible, but no simpler
-- Explain things as simply as possible, but no simpler
-- Pick a good title
-- Start with why
-- Include pictures and lists
-- Share diagrams and models for people to fork and explore
-- Conclude with a call to action (even if that's just asking people to provide feedback)
-- Make it easy for people to share, comment on, and engage with your proposal (see next section)
+- Keep your proposal as short as possible, but no simpler.
+- Explain things as simply as possible, but no simpler.
+- Pick a good title. It should be the simplest possible explanation of the purpose of your writing. It should also grab the reader and make them curious so that they read more.
+- Start with why. Explain your motivation and the direction of your thinking.
+- Include pictures and lists. It's likely that people will read the title, then skim the piece to see if it's worth reading. Pictures and lists stand out. 
+- Share diagrams and models for people to fork and explore.
+- Conclude by restating your purpose, summarizing your proposal, and asking the reader to take action (even if that's just asking people to provide feedback).
+- Make it easy for people to share, comment on, and engage with your proposal. Welcome and encourage feedback, and then engage with that feedback to answer questions and explore ideas.
+
+Any proposal should at least cover:
+- a description of a problem 
+- a rationale for why a solution is needed
+- a way to verify the problem and rationale behind the solution
 
 ## Tools
 
@@ -53,4 +58,13 @@ The [Hemingway app](https://hemingwayapp.com/) can help you check for long run o
 ### Grammerly
 
 [Grammerly](https://www.grammarly.com/) can help you improve your grammar, but beware of installing it on a computer or browser that you use to handle sensitive information as it's probably logging everything you type and sending it to a server.
+
+### Better Writing Guides
+
+- [The day you became a better writer](https://www.scottadamssays.com/2015/08/22/the-day-you-became-a-better-writer-2nd-look/) - Scott Adams shares some clear and concise tips on writing better. Takes 2min to read. 
+- [Get your memo read](https://seths.blog/2018/11/get-your-memo-read/) - Another short and practical guide on writing by Seth Godin. 
+- [Writing for people who don't read](https://seths.blog/2018/06/writing-for-people-who-dont-read/) - Know your audience. Half the battle is finding people who want to hear what you have to say.
+- [Notes on writing](https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md) - YC researcher Michael Nielsen shares his perspective on what makes writing good.
+- [Save time by writing better](https://blog.luisivan.net/saving-time-by-writing-better-11bce34f4631) - No one wants to read your disorganized writing. Good writing shows that you care. It's a sign of respect to the reader.
+- [The work required to have an opinion](https://fs.blog/2013/04/the-work-required-to-have-an-opinion/) - If you understand multiple perspectives on a subject you can anticipate and address likely questions and critiques.
 
