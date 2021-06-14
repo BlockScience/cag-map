@@ -4,9 +4,27 @@
 
 > Picture of the Enact section (with pictures and colors) goes here. This can prime the reader for the next section and might also help to break up an otherwise monotonous wall of text.
 
+## Notes
+
+```
+MOTIVATION
+- fortune favors the bold
+
+CONCEPTS
+- legitimacy
+- politics
+
+TOOLS
+- it depends
+```
+
 ## Overview
 
 Decisions!
+
+Actions are required to create change. Once an idea has been debated and refined it needs to be enacted. Regardless of the governance process of a system, decision making is going to be political. That's OK. Just remember to be hard on the ideas and easy on the people. Throughout history those who attack people are generally less well regarded than those who attack problems and change systems.
+
+How decisions are made in any specific system is going to be unique. It's very important that you understand this context so that you can engage productively. This last part is important because without it nothing happens.
 
 ## Concepts
 

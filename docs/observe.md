@@ -4,15 +4,42 @@
 
 > Picture of the Observe section (with pictures and colors) goes here. This can prime the reader for the next section and might also help to break up an otherwise monotonous wall of text.
 
+## Notes
+
+```
+MOTIVATION
+- maps are useful
+- more information better decisions
+
+CONCEPTS
+- facts vs opinions
+- stakeholder analysis
+- resource management
+- governance processes
+
+TOOLS
+- white paper
+- docs
+- source code
+- activity
+- maps and models
+- research reports
+- community chats 
+```
+
 ## Overview
 
-If you want to go on an adventure a common first step is to get a map. Then once you know where you are on the map, and the terrain around you, then you can navigate to your destination.
+If you want to go on an adventure the first step is often to get a [map](https://en.wikipedia.org/wiki/Map). Then once you know where you are you can navigate to your destination. This also applies to computer aided governance. If you want a system to achieve a goal, first you need to understand how it works. Then you'll know what to change to create the changes you want to see.
 
-This also applies to computer aided governance. If you want to change a system to achieve a goal, first you need to understand how it works. Then you'll know what to do to create the changes you want to see.
+Systems with governance imply that there is something being governed. This allows us to leverage [socioeconomics](https://en.wikipedia.org/wiki/Socioeconomics) to understand the people in a system, the resources they're sharing, and how they make decisions to manage those resources. As you explore you'll find a lot of information. Some will be true, and some will be [truthy](https://en.wikipedia.org/wiki/Truthiness). Knowing the difference is key. From there you can understand the incentives and opinions of stakeholders, the tangible and intangible resources they care about, and how decisions get made. If it seems like [incentives](https://en.wikipedia.org/wiki/Incentive) are aligned, there's a common ground of [knowledge](https://en.wikipedia.org/wiki/Knowledge), and [power](https://en.wikipedia.org/wiki/Power_(social_and_political)) structures are transparent - then you might want to engage in computer *aided* governance. If not, however, then be warned: [there be dragons](https://en.wikipedia.org/wiki/Here_be_dragons).
 
-Socio-economic systems, being made up of both people and resources, have both subjective and objective elements to them. Both are valuable, but they're very different. Facts are true regardless of whether or not you believe in them, but opinions are only relevant as long as people believe in them. This sounds simple, but it's not. People will often state opinions with such confidence and conviction that they *feel* like facts. People will also question facts to better understand them within context, which can make them *feel* opinionated. This can create cognitive dissonance. While the dichotomy between logic and emotion is unlikely to be resolved anytime soon, knowing the difference between facts and opinions can help establish common ground. If you're arguing about which direction to go, it helps to at least be looking at the same map.
+Everyone has their own incentives and opinions. You're going to need multiple perspectives and sources to determine what is relevant to you. Some common examples are a white paper, documentation, source code, maps/models, research reports, system activity, and community chats. Each of these sources has a perspective on the system, but only by combining multiple perspectives can you start to understand what's really going on. When in doubt go to the source of the data and build up your thinking from [first principles](https://en.wikipedia.org/wiki/First_principle).
 
 ## Concepts 
+
+### Facts vs Opinions
+
+Socio-economic systems, being made up of both people and resources, have both subjective and objective elements to them. Both are valuable, but they're very different. Facts are true regardless of whether or not you believe in them, but opinions are only relevant as long as people believe in them. This sounds simple, but it's not. People will often state opinions with such confidence and conviction that they *feel* like facts. People will also question facts to better understand them within context, which can make them *feel* opinionated. This can create cognitive dissonance. While the dichotomy between logic and emotion is unlikely to be resolved anytime soon, knowing the difference between facts and opinions can help establish common ground. If you're arguing about which direction to go, it helps to at least be looking at the same map.
 
 ### Stakeholder Analysis
 
@@ -87,7 +114,7 @@ The [source code](https://en.wikipedia.org/wiki/Source_code) is the actual code 
 
 Even if you can't read the code yourself, you can at least check that the software implementation of a system is free and open-source. This does not guarantee that it is bug free, but it does increase the probability that users who can read the code will find bugs sooner than later. This also puts more power in the hands of users. Anyone can fork the software if they disagree with a change, somewhat reducing the likelihood of contentious changes happening in the first place. 
 
-### System maps and models
+### Maps and models
 
 Complex systems will often use maps and models to communicate how they work. A map or model is not the system itself, but a representation of the system. They choose to exclude some information to focus on others. This way you don't have to understand every detail to understand the key points of how the system works. Many maps and models are interactive so that you can explore the system in more depth than a static document.
 

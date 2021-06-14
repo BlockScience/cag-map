@@ -4,9 +4,35 @@
 
 > Picture of the Model section (with pictures and colors) goes here. This can prime the reader for the next section and might also help to break up an otherwise monotonous wall of text.
 
+## Notes
+
+```
+MOTIVATION
+- thought experiment with code
+- interactive doc
+
+CONCEPTS
+- legibility
+- assumptions
+- specificity
+- A/B testing
+- ergodicity
+- reflexivity
+
+TOOLS
+- MatLab
+- cadCAD
+- Labs
+- tokenSPICE
+```
+
 ## Overview
 
-[Models](https://en.wikipedia.org/wiki/Model) allow you to define your ideas and test them in hypothetical environments. They're like thought experiments, but with code. Something in between a white paper and a working implementation. This is great if you want to test an idea before building it, or want to test variations on an idea to see which might be the best.
+[Models](https://en.wikipedia.org/wiki/Modeling_and_simulation) allow you to define your ideas and test them in hypothetical environments. They're like [thought experiments](https://en.wikipedia.org/wiki/Thought_experiment), but with code. Something in between a white paper and a working implementation. This is great if you want to test an idea before building it, or want to test variations on an idea to see which might be the best.
+
+When creating a model the point is to help you explore an idea, but also to help others do the same. As such it needs to be legible. The assumptions the model depends on as well as the things the model is specifically exploring should be made explicit. This way it's easier to [A/B test](https://en.wikipedia.org/wiki/A/B_testing) the model assumptions and parameters.
+
+There are many tools to create models. [MatLab](https://www.mathworks.com/products/matlab.html) is popular, but expensive. [cadCAD](https://cadcad.org/) is newer, but open source. There's also stand alone frameworks like [tokenSPICE](https://github.com/oceanprotocol/tokenspice) that begin to incorporate EVM testnets into modeling and cadCAD services like [BlockScience Labs](https://blocksciencelabs.com/) that make it easier to automatically run models based on real world data. What's best for you will be dependent on the context in which you're operating. Regardless of what tools you choose, the model should be easy to read and run. That way people can engage with and contribute to your work. This is one of the benefits of open source software in that anyone will be able to run it.
 
 ## Concepts
 

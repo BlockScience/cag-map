@@ -4,9 +4,29 @@
 
 > Picture of the Monitor section (with pictures and colors) goes here. This can prime the reader for the next section and might also help to break up an otherwise monotonous wall of text.
 
+## Notes
+
+```
+MOTIVATION
+- feedback
+
+CONCEPTS
+- success
+- failure
+
+TOOLS
+- automated alerts
+- recurring runs
+- manual review
+```
+
 ## Overview
 
-Science wouldn't work if we ran experiments but didn't bother to record the results. Same goes for governance. There needs to be a feedback loop between decisions and results. Monitoring allows you to verify the results of proposals to see if they had their intended effects. If so, great. If not, then you know what the results were and you can draft a proposal to change things and try again.
+[Science](https://en.wikipedia.org/wiki/Science) wouldn't work if we ran experiments but didn't bother to record the results. Same goes for governance. There needs to be a [feedback loop](https://en.wikipedia.org/wiki/Feedback) between decisions and results. Monitoring allows you to verify the results of decisions to see if they had their intended effects.
+
+If a proposal succeeds you'll want to see if it actually has the effect you intended. If so, then great. If not, then you're back to the ask stage to understand why it's not having the effect you intended. If a proposal doesn't succeed that's OK too. If you have a hypothesis of what will happen if the problem is not solved then you can validate that as well. This can provide more data to support your original proposal, potentially allowing you to resubmit a modified version with more evidence to back it up.
+
+There are a few tools that can help with this process. You'll want to automate some things like alters and recurring model runs, but others will be more manual like engaging with the community to understand sentiment. Both are important to provide context for your next questions and proposals.
 
 ## Concepts
 

@@ -4,23 +4,49 @@
 
 > Picture of the Debate section (with pictures and colors) goes here. This can prime the reader for the next section and might also help to break up an otherwise monotonous wall of text.
 
+## Notes
+
+```
+MOTIVATION
+- critical thinking and speaking
+- intersubjectivity > objective social goals
+- financial economies -> trade assets
+- political economies -> debate ideas
+
+CONCEPTS
+- look for data
+- informed opinion
+- goodwill
+- fallacies
+- sacred vs profane  
+- the power of defaults
+- global vs local
+- campaigning
+
+TOOLS
+- social media
+- socratic questioning
+- clarify assumptions  
+- eat a snack
+```
+
 ## Overview
 
-Any idea can seem good in our heads. We don't really get to test them out and improve them until we bring them into the real world. The first step in this process is debate. Sharing ideas and defending and/or updating them based on feedback and critique.
+Any idea can seem good in our heads. We don't really get to test them out and improve them until we bring them into the real world. The first step in this process is [debate](https://en.wikipedia.org/wiki/Debate). Sharing ideas and defending and/or updating them based on feedback.
 
-Good debates involve critical thinking. This means that people will be critical. This is OK, good even, as long as we're critical on ideas and not people. This way we can improve our ideas and arrive at better outcomes for all parties involved.
+Good debates involve [critical thinking](https://en.wikipedia.org/wiki/Critical_thinking). This means that people will be critical. This is OK, good even, as long as we're critical on ideas and not people. This way we can improve our ideas and arrive at better outcomes for all parties involved.
 
-Politics is how we adjudicate ideas and preferences between stakeholders. A healthy political process allows people to battle over ideas. An unhealthy political process is when ideas are used to battle people. The former leads to productivity, while the later leads to corruption. If you find yourself looking for data or ideas to battle people, take a step back. Computer *aided* governance requires a data driven decision making process. If your emotions are in the drivers seat you're not doing it right.
+Politics is how we adjudicate ideas and preferences between stakeholders. A healthy political process allows people to battle over ideas. An unhealthy political process is when ideas are used to battle people. The former leads to productivity, while the later leads to corruption. If you find yourself looking for data or ideas to battle people, take a step back. Computer *aided* governance requires a [data driven decision making process](LINK-GOES-HERE). If your emotions are in the drivers seat you're not doing it right.
 
-Why does this matter? Why not just avoid politics and focus on code?
+Why does this matter? Why not just avoid [politics](https://en.wikipedia.org/wiki/Politics) and focus on code?
 
-Many social systems aim to represent the interests of a group of people as a whole, but they are not independent entities. They cannot think or act on their own. Political actors, however, can. The system is a process, not a conscious entity. Opinions are the domain of political actors. It is then their responsibility represent their interests by engaging in the political process to take action. The constitutional rules of a system determine how political actors can represent their interests and adjudicate disagreements within that system. 
+Many social systems aim to represent the interests of a group of people as a whole, but they are not independent entities. They cannot think or act on their own. Political actors, however, can. The system is a process, not a conscious entity. Opinions are the domain of political actors. It is then their responsibility represent their interests by engaging in the political process to take action. The constitutional rules of a system determine how political actors can represent their interests and adjudicate disagreements within that system.
 
-When individuals can take political action they have many different opinions, interests, and incentives. There is no single voice that represents them all. There are, however, many smaller groups within the system who have more concentrated opinions and incentives. These minority groups are often impacted by, and thus care a lot about, a few specific things. The majority is less impacted by those things, and rationally, they choose to remain less informed of them (rational ignorance). The cost of becoming informed outweighs potential benefits. There's only so much time in the day. For concentrated minority groups, however, the benefits of becoming informed, coordinating, and acting to represent their interests is very high. Naturally, these minority groups are the most politically active.
+When individuals can take political action they have many different opinions, interests, and incentives. There is no single voice that represents them all. There are, however, many smaller groups within the system who have more concentrated opinions and incentives. These minority groups are often impacted by, and thus care a lot about, a few specific things. The majority is less impacted by those things, and [rationally](https://en.wikipedia.org/wiki/Rational_ignorance), they choose to remain less informed of them. The cost of becoming informed outweighs potential benefits. There's only so much time in the day. For concentrated minority groups, however, the benefits of becoming informed, coordinating, and acting to represent their interests is very high. Naturally, these minority groups are the most politically active.
 
 So while many social systems aim to represent the interests of the majority of individuals, but most individuals don't care about most things. Those who do care are often concentrated minorities who care about specific things. They are the most likely to engage in the political process to have their opinions represented. The system then represents the interests of coordinated minority groups rather than the majority of individuals as a whole.
 
-The only way around this is for everyone to have skin in the game and participate in governance. Otherwise, when minority groups push the system to a local optima that favors them, no one will push back. Someone has to actually care about the opposite side of a policy otherwise power is just balanced in theory. This is why you have to understand and engage in politics. Otherwise the entire world will turn into a [dystopian](https://www.npr.org/sections/money/2021/06/08/1003982733/squalor-behind-the-golden-gate-confronting-californias-homelessness-crisis?t=1623618449000) [San Franciscan nightmare](https://palladiummag.com/2021/05/14/we-must-save-san-francisco/).
+This is not an easy problem to solve. One thing that might help is if everyone has [skin in the game](https://en.wikipedia.org/wiki/Skin_in_the_game_(phrase)) and participates in governance. Otherwise minority groups will push a system to a local optima that favors them and no one will push back. Someone has to actually care about the opposite side of a policy otherwise power is just balanced in theory. This is why you have to understand and engage in politics. While debate might be contentious, it helps improve the ideas and decisions that guide a system.
 
 ## Concepts
 

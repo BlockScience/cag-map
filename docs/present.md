@@ -4,11 +4,33 @@
 
 > Picture of the Present section (with pictures and colors) goes here. This can prime the reader for the next section and might also help to break up an otherwise monotonous wall of text.
 
+## Notes
+
+```
+MOTIVATION
+- if a tree falls in a forest
+- clear communication
+
+CONCEPTS
+- know your audience
+- show your work
+- keep it simple
+- keep it structured
+
+TOOLS
+- check spelling
+- check grammar
+- keep it simple
+- read good writing
+```
+
 ## Overview
 
-Both political feasibility and incentive compatibility matter in socio-economic systems. Data is only half the battle. What takes priority will not just depend on who can best define the goal (strategy) and the steps to get there (tactics), but who can best communicate it and align the relevant powers around it.
+Both [political feasibility](https://en.wikipedia.org/wiki/Political_feasibility_analysis) and [incentive compatibility](https://en.wikipedia.org/wiki/Incentive_compatibility) matter in socio-economic systems. Data is only half the battle. What takes priority will not just depend on who can best define the goal ([strategy](https://en.wikipedia.org/wiki/Strategy)) and the steps to get there ([tactics](https://en.wikipedia.org/wiki/Tactic_(method))), but also who can best communicate it and align the relevant [powers](https://en.wikipedia.org/wiki/Power_(social_and_political)) around it. In the context of computer *aided* governance this is essential. If people don't understand what you're talking about they won't be able to productively or intelligently engage with your work. Less engagement leads to lower chances of your proposal passing. Making your purpose, process, and hypothesis clear is the first step towards success.
 
-In the context of computer *aided* governance this is essential. If people don't understand what you're talking about they won't be able to productively or intelligently engage with your work. Less engagement leads to lower chances of your proposal passing. Making your purpose, process, and hypothesis clear is the first step towards success.
+Then you need to share your work. This implies that there is an audience. [Knowing your audience](https://seths.blog/2017/07/in-search-of-the-minimum-viable-audience/) can help you craft your message in a way that's accessible. The key is to make content that is both interesting and informational. People need to care. Keeping things simple, structuring your content, and showing your work is a good first step.
+
+There's many tools that can help you improve your writing. Some are focused on mechanics and some are more for overall structure. Both are good. Start with checking your spelling, [grammar](https://www.grammarly.com/), and [run-on sentences](https://hemingwayapp.com/). From there it helps a lot to read good writing. Good writing is subjective so this is going to be dependent on your personal preferences, and more importantly, your audience.
 
 ## Concepts
 

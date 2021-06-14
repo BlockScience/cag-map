@@ -4,11 +4,33 @@
 
 > Picture of the Ask section (with pictures and colors) goes here. This can prime the reader for the next section and might also help to break up an otherwise monotonous wall of text.
 
+## Notes
+
+```
+MOTIVATION
+- knowledge is power
+- asking the right questions
+- solving the right problems
+
+CONCEPTS
+- problem definition
+- explore similar problems
+- anticipate results (form a hypothesis)
+
+TOOLS
+- make a list
+- ask a friend
+- socratic questioning
+- design rationale
+```
+
 ## Overview
 
-As you start to understand a system it's likely that you'll have some questions. Often these questions are answered as we learn more. Sometimes, however, there isn't an obvious answer. If so, the next step is to clearly define the question. Then if there is an answer people can help you find it, but if there isn't you can explore potential solutions and maybe even create a proposal to implement a change.
+As you start to explore a system it's likely that you'll have some questions. As you learn some questions will be answered, but some will not. This might highlight parts of the system that could improve. If so, then the next step is to figure out what the problem is and [how to solve it](https://en.wikipedia.org/wiki/How_to_Solve_It). It's important to spend a lot of time on this because solving problems starts with [asking questions](https://fs.blog/2019/09/power-questions/). You can't solve something you don't understand.
 
-There are a lot of resources out there to help us [ask better questions](https://en.wikipedia.org/wiki/Socratic_questioning) and [solve problems](https://en.wikipedia.org/wiki/How_to_Solve_It). In this section we'll use the words "question" and "problem" interchangeably. It's recommended that you explore resources for both because solving the right problems starts with asking the right questions.
+The most important thing is to have a clear and concise [definition of the problem](https://en.wikipedia.org/wiki/Problem_statement) you're trying to [solve](https://en.wikipedia.org/wiki/Problem_solving). It should be obvious. If you're unclear about what you're doing and why everything else is more difficult. Once you have a clear problem definition you can explore similar problems. This might provide intuition around how other problems were solved and the results of implementing various solutions. This can then help you form a [hypothesis](https://en.wikipedia.org/wiki/Hypothesis) of what is likely to help solve your problem.
+
+There are several tools and techniques that can help you define your problem and identify likely solutions. The first is to just write it down. Try to define the problem in a single sentence and make a list of things of similar problems and their solutions. Then ask a friend and see what they have to say. Apply [Socratic questioning](https://en.wikipedia.org/wiki/Socratic_questioning) to further explore the problem and your thinking around it. Then once you have a few good ideas produce a design rationale explaining your thought process, the ideas considered, and why you think a particular solution might work well. Then you have a clear problem definition and solution hypothesis.
 
 ## Concepts
 
@@ -27,7 +49,7 @@ History doesn't repeat, but it does rhyme. It's likely that someone somewhere ha
 - Can you find any problems similar to the one you're trying to solve?
 - If so, could a solution to that problem be applied to your problem (potentially with modifications)? 
 
-### Anticipate Results
+### Hypothesis 
 
 The point of running experiments is to validate results. There's an infinite amount of things we *could* do, but forming a hypothesis allows us to test things that seem the most *probable*. The hypothesis has to come before the experiment, otherwise you haven't proven anything other than your ability to cherry pick data and/or get lucky. By formulating a detailed hypothesis you'll have a better idea of what's working or what's not, and more importantly why not. 
 

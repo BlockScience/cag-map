@@ -4,13 +4,37 @@
 
 > Picture of the Map section (with pictures and colors) goes here. This can prime the reader for the next section and might also help to break up an otherwise monotonous wall of text.
 
+## Notes
+
+```
+MOTIVATION
+- a picture says a thousand words
+- highlight main ideas
+- keep it simple
+
+CONCEPTS
+- draw a picture
+- map != territory
+
+TOOLS
+- comic
+- flow chart
+- causal loop
+- stock and flow
+- functional
+```
+
 ## Overview
 
-A picture says a thousand words. The same is true for maps. They can convey a lot of information quickly and intuitively. It's not a perfect representation of a thing, but it's good enough to communicate the main ideas.
+A picture says a thousand words. The same is true for [maps](https://en.wikipedia.org/wiki/Map). They can convey a lot of information quickly and intuitively.
+
+Maps are not a perfect representation of a thing. They're an abstraction that communicates the main ideas. Creating a map can help you clarify what the main ideas are. It can also make it easier for your audience to quickly understand and remember the main ideas as well.
+
+Maps don't need to be fancy. They just need to be clear. They should only include the most important things. This often includes the components of the system as well as the relationships between them. This might look like a simple [sketch](https://en.wikipedia.org/wiki/Sketch_(drawing)), [flow chart](https://en.wikipedia.org/wiki/Flowchart), [functional block diagram](https://en.wikipedia.org/wiki/Functional_block_diagram), [causal loop diagram](https://en.wikipedia.org/wiki/Causal_loop_diagram), [stock and flow diagram](https://en.wikipedia.org/wiki/Stock_and_flow), or even [interactive media](https://distill.pub/2020/communicating-with-interactive-articles/). Whatever you want. The important thing is to clearly illustrate the ideas you want to communicate.
 
 ## Concepts
 
-`Would be nice if this part had pictures of the various types of maps/diagrams.`
+> `Would be nice if this part had pictures of the various types of maps/diagrams.`
 
 ### Draw A Picture
 

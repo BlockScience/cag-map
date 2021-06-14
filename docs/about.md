@@ -12,9 +12,21 @@ The map is split into sections that describe the process of looking at data, ask
 
 ## Why is a CAG MAP important?
 
-We live in an increasingly complex world. Computers can help us process and work with complex data. More and more systems are running more and more important things, and humans need to steer these systems productively. Often humans need to design and manage these systems as a group. Computer *aided* governance explores how groups of humans can use computers to understand and steer complex systems.
+We live in an increasingly complex world. Computers can help us understand and work with complex data. This often involves automation, but humans still want to make decisions. Computer aided governance explores [how groups of humans can use computers to understand and steer complex systems](https://medium.com/block-science/computer-aided-governance-cag-a-revolution-in-automated-decision-support-systems-9faa009e57a2).
 
-This blog post (and accompanying map) provide an overview to the computer *aided* governance process. The goal is to provide intuition. It's not a comprehensive guide or formal process. Take what seems useful and discard the rest.
+This blog post (and accompanying map) provide an overview to the computer aided governance process. The goal is to provide intuition. It's not a comprehensive guide or formal process. Take what seems useful and discard the rest.
 
-It should be noted that while the computer *aided* governance process aims to support productive and intelligent governance, it alone is not enough. If a system has an overly complex (or non-existent) governance process, or if power is distributed unevenly and some stakeholders are disenfranchised, this process will not work. If there is a solid foundation provided by a system with accurate and accessible data, clear rules and processes, empowered stakeholders, and aligned incentives then it might work. CAG is a small piece in a large puzzle.
+The computer *aided* governance map and process (CAG MAP) is divided into eight parts:
+
+- **Observe:** who, what, where, when, why
+- **Ask:** what if?
+- **Map:** draw a picture
+- **Model:** code based thought experiments
+- **Present:** share your ideas
+- **Debate:** applied critical thinking
+- **Enact:** make a decision and take action
+- **Monitor:** log results
+- **Repeat:** new data leads to new questions
+
+> It should be noted that while the computer *aided* governance process aims to support productive and intelligent governance, it alone is not enough. If a system has an overly complex (or non-existent) governance process, or if power is distributed unevenly and some stakeholders are disenfranchised, this process will not work. If there is a solid foundation provided by a system with accurate and accessible data, clear rules and processes, empowered stakeholders, and aligned incentives then it might work. CAG is a small piece in a large puzzle.
 
