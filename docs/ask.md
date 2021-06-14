@@ -6,32 +6,33 @@
 
 ## Overview
 
-As you start to understand a system it's likely that you have some questions. Often these questions are answered as we learn more. Sometimes, however, there isn't an obvious answer. If so, the next step is to clearly define the question. This way if there's an answer people can help you find it, but if there isn't you can explore potential solutions and maybe even create a proposal to implement a change.
+As you start to understand a system it's likely that you'll have some questions. Often these questions are answered as we learn more. Sometimes, however, there isn't an obvious answer. If so, the next step is to clearly define the question. Then if there is an answer people can help you find it, but if there isn't you can explore potential solutions and maybe even create a proposal to implement a change.
 
-There are a lot of resources out there to help us [ask better questions](https://en.wikipedia.org/wiki/Socratic_questioning) and [solve problems](https://en.wikipedia.org/wiki/How_to_Solve_It). In this section we'll use the words "question" and "problem" interchangeably. It's recommended that you explore resources for both as they're very complimentary. Solving the right problems starts with asking the right questions.
+There are a lot of resources out there to help us [ask better questions](https://en.wikipedia.org/wiki/Socratic_questioning) and [solve problems](https://en.wikipedia.org/wiki/How_to_Solve_It). In this section we'll use the words "question" and "problem" interchangeably. It's recommended that you explore resources for both because solving the right problems starts with asking the right questions.
 
 ## Concepts
 
 ### Problem Definition
 
-Defining the question you want to ask or the problem you want to solve is one of the most important steps. If you don't know what problem you're solving how will you know when you've found a solution? Also, if people don't know what problem you're trying to solve they won't be able to work with you and help you find solutions? 
+Defining the question you want to ask or the problem you want to solve is one of the most important steps. If you don't know what problem you're solving how will you know when you've found a solution? Also, if people don't know what problem you're trying to solve they won't be able to work with you and help you find solutions. 
 
 - Can you state the problem in a single sentence?
-- What are the requirements for any potential solutions?
+- How will you know when the problem is solved?
+- What are the constraints for any potential solutions?
 
 ### Explore Similar Problems
 
-History doesn't repeat, but it does rhyme. It's likely that someone somewhere has had to deal with a similar problem as the one you're exploring. It might be that the dynamics of the problem are similar, but it's applied in a different context. It might also be that the context is similar, but there was a slightly different problem. Regardless, building off of people's prior work can often save you a lot of time and energy.
+History doesn't repeat, but it does rhyme. It's likely that someone somewhere has had to deal with a similar problem as the one you're exploring. It might be that the dynamics of the problem are similar, but it's applied in a different context. It might also be that the context is similar, but there was a slightly different problem. Regardless, building off of prior work can often save you a lot of time and energy.
 
-- Can you find any questions or problems similar to the one you're trying to answer/solve?
-- If so, would some of the solutions to those questions/problems be applicable to your question/problem? 
+- Can you find any problems similar to the one you're trying to solve?
+- If so, could a solution to that problem be applied to your problem (potentially with modifications)? 
 
 ### Anticipate Results
 
-The point of running experiments is to validate results. There's an infinite amount of things we *could* do, but forming a hypothesis allows us to test things that seem the most *probable*. The hypothesis has to come before the experiment, otherwise you haven't proven anything other than your ability to cherry pick data and/or get lucky. By formulating a detailed hypothesis you'll have a better idea of what's working or what's not, and more importantly why not. Understanding what's going on and why is an essential aspect of steering a system. Good hypotheses can lead to better governance.
+The point of running experiments is to validate results. There's an infinite amount of things we *could* do, but forming a hypothesis allows us to test things that seem the most *probable*. The hypothesis has to come before the experiment, otherwise you haven't proven anything other than your ability to cherry pick data and/or get lucky. By formulating a detailed hypothesis you'll have a better idea of what's working or what's not, and more importantly why not. 
 
-- What might happen if you implemented a proposed solution?
-- What might happen if you do nothing? 
+- What do you expect to happen if you do nothing? 
+- What do you expect to happen if you implement a solution?
 
 ## Tools
 
@@ -49,14 +50,14 @@ Getting feedback, esp from people with different viewpoints than your own, can h
 
 ### Socratic Questioning
 
-[Socratic Questioning](https://en.wikipedia.org/wiki/Socratic_questioning) is a process of evaluation that can help you guard against common biases and better understand the problem and potential solutions. The process generally looks like:
+[Socratic Questioning](https://en.wikipedia.org/wiki/Socratic_questioning) is a process of evaluation that can help you explore alternative perspectives to understand a problem. This looks something like:
 
-- Clarify your thinking and explain your thought process.
-- Look for assumptions and challenge them.
-- Provide evidence to validate assumptions.
-- Explore alternative viewpoints and solutions.
-- Explore consequences and second order effects of any proposed solutions.
-- Question the original question (aka is this even the right problem to be solving to create the change you want?).
+- Explaining your thought process to clarify your thinking.
+- Look for (and challenging) assumptions in your problem definition or solution.
+- Providing evidence to validate those assumptions.
+- Asking what you might think if you were arguing against the idea.
+- Explore the first and second order effects of the solution, and new problems that might arise as a result.
+- Question the original question to determine if it's even the right problem to be solving to create the change you want.
 
 ### Design Rationale
 

@@ -1,10 +1,17 @@
 # CAG MAP
 
-> computer aided governance map and process
+> computer *aided* governance map and process
 
-The goal of the CAG MAP repo is to turn [this HackMD](https://hackmd.io/FphHh83iRxyrLPy894E1Tw) into an [MKdocs workbook](https://www.mkdocs.org/).
+The goal of the CAG MAP is to provide a guide for those on a computer *aided* governance journey.
 
-The benifit of MKdocs is that it's fast, free, and fully open source. It's easy to iterate on and contribute to while we define the content. Then if we want to turn the workbook into something fancy like [Docusaurus](https://docusaurus.io/) or a website we can, but MKdocs can also be served directly via [GitHub pages](https://www.mkdocs.org/user-guide/deploying-your-docs/#github-pages).
+There's a map and docs.
 
-We'll work on the actual CAG Map (pretty picture) in [Miro](https://miro.com/) because that seems to be what everyone likes using. Shared Miro file TBD.
+To contribute to the map go to [Miro board](https://miro.com/welcomeonboard/cXBnWnE4MnZlQjNZZzlzNTc5dEVhcU1hTTl4bHhwanpycDR4ZUNlbloxVzlVbnR6aklLM2RzZkRTMmRnajZTa3wzMDc0NDU3MzU5MTQ4NTM5MjAx).
+
+To deploy the [MKdocs](https://www.mkdocs.org/):
+
+- `pip install MKdocs`
+- clone this repo locally
+- navigate to the repo home directory
+- `mkdocs serve`
 

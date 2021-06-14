@@ -6,35 +6,40 @@
 
 ## Overview
 
-Adding technology to something you don't understand is not a good idea. It is guaranteed to make things worse. Disruption without direction is just chaos. If you want to improve a system, first seek to understand how it works. Then, once you have an informed opinion, you can engage productively.
+If you want to go on an adventure a common first step is to get a map. Then once you know where you are on the map, and the terrain around you, then you can navigate to your destination.
 
-Hopefully this process will help you draft better proposals, but it will also help when analyzing systems and proposals. The most important thing is to look for evidence and facts that back statements up. If a statement is made without any supporting evidence it might just be an opinion. Both facts and opinions can be helpful as long as you can differentiate between the two. Facts are true regardless of whether or not you believe in them, but opinions are only relevant as long as people believe in them. People will often state opinions confidently and definitively as if they're facts. People will also question facts in order to better understand their provenance and application within context. This can be confusing. A scientific approach is skeptical of processes and data because they want to find out what's true or not, but media and politicians are full of conviction and emotion because they want to find out what will capture your attention (and votes). This creates cognitive dissonance. Data driven processes are logically sound, but emotionally unsatisfying. Narrative driven processes are often impossible to prove or disprove logically, but they are emotionally exciting and compelling.
+This also applies to computer aided governance. If you want to change a system to achieve a goal, first you need to understand how it works. Then you'll know what to do to create the changes you want to see.
 
-The dichotomy between logic and emotion is unlikely to be resolved anytime soon. That being said, knowing the difference between facts and opinions can help establish a ground truth. Then at least we can have a few shared factual reference points to build our intersubjective narratives off of. 
+Socio-economic systems, being made up of both people and resources, have both subjective and objective elements to them. Both are valuable, but they're very different. Facts are true regardless of whether or not you believe in them, but opinions are only relevant as long as people believe in them. This sounds simple, but it's not. People will often state opinions with such confidence and conviction that they *feel* like facts. People will also question facts to better understand them within context, which can make them *feel* opinionated. This can create cognitive dissonance. While the dichotomy between logic and emotion is unlikely to be resolved anytime soon, knowing the difference between facts and opinions can help establish common ground. If you're arguing about which direction to go, it helps to at least be looking at the same map.
 
-## Concepts (How)
+## Concepts 
 
 ### Stakeholder Analysis
 
-[Stakeholder analysis](https://en.wikipedia.org/wiki/Stakeholder_analysis) explores who is part of the decision making process as well as who would be affect by a decision. In other words, who holds a stake in the outcome?
+A [stakeholder](https://en.wikipedia.org/wiki/Project_stakeholder) is an individual, group, or organization, who may affect, be affected by, or perceive itself to be affected by a decision, activity, or outcome of a project. This often focuses on [financial stakeholders](https://en.wikipedia.org/wiki/Stakeholder_(corporate)) who directly impact or interact with an organization in an economic way, but it doesn't have to. [Stakeholder analysis](https://en.wikipedia.org/wiki/Stakeholder_analysis) is a process to understand who impacts decision making in a system as well as who would be affected by a decision. In other words, who holds a stake in the outcome?
 
-A few questions you might ask yourself to start to think about stakeholders are:
+Whenever performing stakeholder analysis it's important to think about who can influence decision making, but also what might be their [incentives](https://en.wikipedia.org/wiki/Incentive) to do so. While many stakeholders can advocate for their interests, there's often a primary group of stakeholders that determine the outcome of decisions. These primary decision makers often have additional incentives beyond those of secondary stakeholders. If incentives are aligned that's great. If not, however, this can create problems.
 
-- Who has input to decisions?
+Misaligned incentives are like dry tinder for conflict and deception. Without shared incentives [moral hazard](https://en.wikipedia.org/wiki/Moral_hazard) might incentivize decision makers might take on more risk than they would otherwise because they don't bear the full costs of that risk. This could lead to decisions that disproportionately benefit a few if they succeed, but leave the majority of stakeholders holding the bag if they fail. This becomes more complex in political systems. Often politicians claim to act on behalf of the greater good, but don't have incentives to do so. This leads to [principle agent problems](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem) where politicians tell [simple emotional stories](https://en.wikipedia.org/wiki/Appeal_to_emotion) to get votes, but then enact complicated legal policies that [favor special interests](https://en.wikipedia.org/wiki/Crony_capitalism) (such as bailing out risk taking institutions). This is especially complex when [small/large game dynamics](https://unenumerated.blogspot.com/2015/05/small-game-fallacies.html) come into play and incentives might be aligned within a system, but external influences override those incentives.
+
+Aligned incentives can create a foundation for cooperation. It doesn't guarantee cooperation, but it makes it possible. A simple way to do think about this is to ask if all stakeholders have [skin in the game](https://en.wikipedia.org/wiki/Skin_in_the_Game_(book)) and incentives are shared between primary and secondary stakeholders. Another is to think about [feedback loops](https://en.wikipedia.org/wiki/Feedback) and if the consequences of a decision will occur soon enough to impact the decision makers. If these things are true then there is a higher likelihood that decisions will be made in a way that *aims* to maximize stakeholder value. The key word here is *aims.* Even if incentives are aligned and people have the best of intentions sometimes things do not work or cause unintended side effects. Governance is hard.
+
+While exploring the incentive dynamics of political economies in more detail is beyond the scope of this guide, it's highly recommended. If incentives are aligned cooperation is possible, but if incentives are misaligned conflict is inevitable. There's an infinite number of ways that incentives can be misaligned, but only a few ways that they can be aligned. Creating organized and resilient low-entropy systems that don't devolve into chaos is difficult, but it's possible. A few questions you might ask yourself to start to think about stakeholder dynamics are:
+
+- Who can make decisions?
+- Who can affect decision making?
+- What are their incentives to do so?
 - Who is affected by those decisions?
 - What are the incentives of various stakeholders?
-- Are incentives aligned? If not, where might there be conflict?
+- Are incentives misaligned, vague, or aligned?
+- If incentives are not aligned, where might there be conflict?
 - Have there been any conflicts between stakeholders in the past that might recur in the future?
-
-You don't need to have concrete answers to all of these questions right away, but they can help you build intuition about the political feasibility of any future proposals you might think of.
 
 ### Resource Management
 
-Here [resources](https://en.wikipedia.org/wiki/Resource) refers to the thing that is being governed. Stakeholders engage in governance because they care about the management of shared resources. If they had complete control over the resource they wouldn't need to engage in governance. They could just make the decision themselves. The fact that governance is required means that resources are shared.
+Here [resources](https://en.wikipedia.org/wiki/Resource) refer to the thing that is being governed. There are many types of resources. Some are tangible and some are intangible. Some are renewable and some non-renewable. Many of these resources are formally accounted for, but some are not.
 
-There are many types of resources. Some are tangible and some are intangible. Some are renewable and some are non-renewable. The type of governance process will often be correlated to the type of resource. For example, corporate governance works great for stocks, but less so for public goods. At the same time, democratic governance might be good for shared infrastructure, but less ideal for an early stage startup that needs to move fast and decisevely. One size does not fit all. The stakeholders involved and resources being shared will impact how well various types of governance might work. Understanding the types of resources that are valuable to stakeholders can help build intuition on what type of govnernace structure might be best and how to engage productively in that governance process. What types of governance structures are best for what types of resources is beyond the scope of this guide, but it's important to think about. At least make sure you're not assuming a governance process will work just because it worked for a different system in a different context.
-
-Another thing to watch for is if there are intangible resources that are not formally accounted for in the governance process, but are important to stakeholders and a determining factor in their decision making. This is also outside the scope of this guide, but it's very important. Resources = value. Most formal processes account for tangible measurable forms of (or proxies for) value. That being said, there are often many intangible forms of value that affect decision making. One way to address this is to avoid formalizing governance and to rely on [rough consensus](https://en.wikipedia.org/wiki/Rough_consensus), using human [sensemaking](https://en.wikipedia.org/wiki/Sensemaking) to process information and drive decision making. This addresses the problem of dealing with intangible data, but creates a new problem of opaque power structures and the [tyrany of structurelessness](https://www.jofreeman.com/joreen/tyranny.htm). The balance between human subjectivity, objective rules, and tangible vs intangible value remains an unsolved challenge. That being said, being aware of these dynamics is the first step. This is also why computer *aided* governance focuses on having humans in the loop. That way you can balance objective rules with subjective human judgement.
+The type of resource being governed will inform the governance process. For example, hierarchical corporate governance works great for stocks, but less so for public goods. Democratic governance might be good for shared public infrastructure, but less ideal for an early stage startup that needs to move fast and decisively. One size does not fit all. The type of resources being managed will impact the efficacy of the process used to govern those resources. What governance structures are best to manage various resources is beyond the scope of this guide. The main point here is that just because a governance process works in one context does not mean that it will automatically work in others.
 
 A few questions you might ask yourself to start to think about the resources being managed:
 
@@ -46,7 +51,7 @@ A few questions you might ask yourself to start to think about the resources bei
 
 ### Governance Process
 
-[Governance](https://en.wikipedia.org/wiki/Governance) is an important and vague word. It can mean a lot of things to a lot of people in an lot of contexts. Here when we say "governance," we're referring to the process of making decisions. This includes the [constitutional](https://en.wikipedia.org/wiki/Constitutional_economics) rules that constrain the power and actions available to various actors within a system as well as the [political](https://en.wikipedia.org/wiki/Politics) process that actors can engage in to change rules.
+[Governance](https://en.wikipedia.org/wiki/Governance) is an important and vague word. It can mean a lot of things to a lot of people in an lot of contexts. Here when we say "governance" we're referring to the process of making decisions. This includes the [constitutional](https://en.wikipedia.org/wiki/Constitutional_economics) rules that constrain the power and actions available to various actors within a system as well as the [political](https://en.wikipedia.org/wiki/Politics) process that actors can engage in to change rules.
 
 A few questions you might ask yourself to build intuition around how governance within the context of a complex socio-economic system:
 
@@ -55,6 +60,7 @@ A few questions you might ask yourself to build intuition around how governance 
 - What is the process to make changes to the way changes are made (aka can you change constitutional rules)?
 - Is there a history of stakeholders engaging in the political process to change rules or to change how rules are changed?
 - What is the average speed at which changes happen? Ex: does something take a week or a year to discuss and put to a vote?
+- Is the system governed by [rules or rulers](https://www.radicalxchange.org/media/blog/are-networks-democratic/)?
 
 ## Tools
 
