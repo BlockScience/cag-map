@@ -10,7 +10,7 @@ To contribute to the map go to [Miro board](https://miro.com/app/board/o9J_lCmvi
 
 To deploy the [MKdocs](https://www.mkdocs.org/):
 
-- `pip install MKdocs`
+- `pip install mkdocs`
 - `git clone https://github.com/BlockScience/cag-map.git`
 - `cd cag-map`
 - `mkdocs serve`
