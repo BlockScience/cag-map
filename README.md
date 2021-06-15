@@ -11,7 +11,6 @@ To contribute to the map go to [Miro board](https://miro.com/app/board/o9J_lCmvi
 To deploy the [MKdocs](https://www.mkdocs.org/):
 
 - `pip install MKdocs`
-- clone this repo locally
-- navigate to the repo home directory
+- `git clone https://github.com/BlockScience/cag-map.git`
+- `cd cag-map`
 - `mkdocs serve`
-
