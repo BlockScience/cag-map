@@ -81,10 +81,6 @@
                 <ul class="current">
                     <li class="toctree-l1 current"><a class="reference internal current" href="./">Monitor</a>
     <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#notes">Notes</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#overview">Overview</a>
-    </li>
     <li class="toctree-l2"><a class="reference internal" href="#concepts">Concepts</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#success">Success</a>
@@ -102,6 +98,8 @@
     <li class="toctree-l3"><a class="reference internal" href="#manual">Manual</a>
     </li>
         </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#notes">Notes</a>
     </li>
     </ul>
                     </li>
@@ -144,10 +142,23 @@
             <div class="section">
               
                 <h1 id="monitor">Monitor</h1>
-<p><img alt="" src="../img/cag-map-0.0.3-monitor.png" /></p>
-<blockquote>
-<p>Picture of the Monitor section (with pictures and colors) goes here. This can prime the reader for the next section and might also help to break up an otherwise monotonous wall of text.</p>
-</blockquote>
+<p><img alt="" src="https://i.imgur.com/iYqVRRM.png" /></p>
+<p><a href="https://en.wikipedia.org/wiki/Science">Science</a> wouldn't work if we ran experiments but didn't bother to record the results. Same goes for governance. There needs to be a <a href="https://en.wikipedia.org/wiki/Feedback">feedback loop</a> between decisions and results. Monitoring allows you to verify the results of decisions to see if they had their intended effects.</p>
+<p>If a proposal succeeds you'll want to see if it actually has the effect you intended. If so, then great. If not, then figure out why.</p>
+<p>If a proposal doesn't succeed that's OK too. If you had a hypothesis of what will happen if your proposal does not pass then you can validate that. This can provide data to support your original proposal, potentially allowing you to resubmit a modified version with more evidence (<em>"I told you so!"</em>).</p>
+<p>Monitoring complex systems is a lot of work, but there's tools that can help. You'll probably want to automate things like feeding raw data into recurring model runs and alerts based on key metrics - and you'll probably want to manually read community discussions to understand context and sentiment. Analysis of both objective data and subjective social activity are important to understand the global view of a system. One without the other is likely to lead to a <a href="https://en.wikipedia.org/wiki/Local_optimum">local optimum</a>.</p>
+<h2 id="concepts">Concepts</h2>
+<h3 id="success">Success</h3>
+<p>If the proposal passes monitor the relevant metrics to ensure it behaves as expected. If not, suggest ways to adjust accordingly.</p>
+<h3 id="iteration">Iteration</h3>
+<p>If the proposal does not pass still monitor the relevant metrics to see if your prediction holds (then you can say "I told you so" and/or give your proposal another go if it's still relevant).</p>
+<h2 id="tools">Tools</h2>
+<h3 id="automated-alerts">Automated Alerts</h3>
+<p>If possible setup automated alerts for activity that matters in the context of a proposal. This way you can know if expected milestones/thresholds/etc were reached and/or what performance looks like.</p>
+<h3 id="recurring-runs">Recurring Runs</h3>
+<p>If you can get a raw data-feed from the system, you might be able to pipe that into your model and setup recurring runs. This would regularly pull new data into the model and run it to see if anything changed. This can provide more detailed insights than simple metrics. You'll also be able to modify the model to explore potential future scenarios based on new updates.</p>
+<h3 id="manual">Manual</h3>
+<p>Not all data is packaged in a convenient numerical format. Sometimes you need to also review human readable proposals and/or gauge sentiment on community forums and chats. This can sometimes provide insight related to the satisfaction and/or desires of stakeholders. This is important because governance proposals determine how resources are distributed between stakeholders so even if the results are technically what was expected, if stakeholders are unhappy then it's important to understand why and take that into consideration. </p>
 <h2 id="notes">Notes</h2>
 <pre><code>MOTIVATION
 - feedback
@@ -161,22 +172,6 @@ TOOLS
 - recurring runs
 - manual review
 </code></pre>
-<h2 id="overview">Overview</h2>
-<p><a href="https://en.wikipedia.org/wiki/Science">Science</a> wouldn't work if we ran experiments but didn't bother to record the results. Same goes for governance. There needs to be a <a href="https://en.wikipedia.org/wiki/Feedback">feedback loop</a> between decisions and results. Monitoring allows you to verify the results of decisions to see if they had their intended effects.</p>
-<p>If a proposal succeeds you'll want to see if it actually has the effect you intended. If so, then great. If not, then you're back to the ask stage to understand why it's not having the effect you intended. If a proposal doesn't succeed that's OK too. If you have a hypothesis of what will happen if the problem is not solved then you can validate that as well. This can provide more data to support your original proposal, potentially allowing you to resubmit a modified version with more evidence to back it up.</p>
-<p>There are a few tools that can help with this process. You'll want to automate some things like alters and recurring model runs, but others will be more manual like engaging with the community to understand sentiment. Both are important to provide context for your next questions and proposals.</p>
-<h2 id="concepts">Concepts</h2>
-<h3 id="success">Success</h3>
-<p>If the proposal passes monitor the relevant metrics to ensure it behaves as expected. If not, suggest ways to adjust accordingly.</p>
-<h3 id="iteration">Iteration</h3>
-<p>If the proposal does not pass still monitor the relevant metrics to see if your prediction holds (then you can say "I told you so" and/or give your proposal another go if it's still relevant).</p>
-<h2 id="tools">Tools</h2>
-<h3 id="automated-alerts">Automated Alerts</h3>
-<p>If possible setup automated alerts for activity that matters in the context of a proposal. This way you can know if expected milestones/thresholds/etc were reached and/or what performance looks like.</p>
-<h3 id="recurring-runs">Recurring Runs</h3>
-<p>If you can get a raw data-feed from the system, you might be able to pipe that into your model and setup recurring runs. This would regularly pull new data into the model and run it to see if anything changed. This can provide more detailed insights than simple metrics. You'll also be able to modify the model to explore potential future scenarios based on new updates.</p>
-<h3 id="manual">Manual</h3>
-<p>Not all data is packaged in a convenient numerical format. Sometimes you need to also review human readable proposals and/or gauge sentiment on community forums and chats. This can sometimes provide insight related to the satisfaction and/or desires of stakeholders. This is important because governance proposals determine how resources are distributed between stakeholders so even if the results are technically what was expected, if stakeholders are unhappy then it's important to understand why and take that into consideration. </p>
               
             </div>
           </div>
