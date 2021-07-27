@@ -50,4 +50,9 @@
          <lastmod>2021-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://example.com/thanks/</loc>
+         <lastmod>2021-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
