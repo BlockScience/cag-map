@@ -8,6 +8,10 @@
 
 The goal of the CAG MAP is to provide a guide for those on a computer *aided* governance journey.
 
+It's a WIP, but you can check it out here: https://blockscience.github.io/cag-map/o
+
+Please feel free to read, share, open an Issue, submit a PR, or even fork it.
+
 ## Resources
 
 - [CAG MAP Overview](TBD) - A high level overview of CAG MAP exploring core concepts and motivations.
