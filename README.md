@@ -8,7 +8,7 @@
 
 The goal of the CAG MAP is to provide a guide for those on a computer *aided* governance journey.
 
-It's a WIP, but you can check it out here: https://blockscience.github.io/cag-map/o
+It's a WIP, but you can check it out here: https://blockscience.github.io/cag-map/
 
 Please feel free to read, share, open an Issue, submit a PR, or even fork it.
 
