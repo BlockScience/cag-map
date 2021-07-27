@@ -1,36 +1,12 @@
+![](https://i.imgur.com/SJqfYd0.png)
+
 # Ask
 
-![](img/cag-map-0.0.3-ask.png)
+As you start to observe & explore a system it's likely that you'll have some questions. As you learn stuff some questions will be answered, but some will not. Some of these unanswered questions might highlight parts of the system that could improve. If so, then the next step is to figure out what the problem is and [how to solve it](https://en.wikipedia.org/wiki/How_to_Solve_It). It's important to spend a lot of time on this because solving problems starts with [asking questions](https://fs.blog/2019/09/power-questions/). You can't solve something you don't understand.
 
-> Picture of the Ask section (with pictures and colors) goes here. This can prime the reader for the next section and might also help to break up an otherwise monotonous wall of text.
+The most important thing is to have a clear and concise [definition of the problem](https://en.wikipedia.org/wiki/Problem_statement) you're trying to [solve](https://en.wikipedia.org/wiki/Problem_solving). It should be obvious. If you're unclear about what you're doing, everything else is more difficult. Once you have a clear problem definition you can explore similar problems. This might provide intuition around how other problems were solved and the results of implementing various solutions. This can then help you form a [hypothesis](https://en.wikipedia.org/wiki/Hypothesis) of what is likely to help solve your problem.
 
-## Notes
-
-```
-MOTIVATION
-- knowledge is power
-- asking the right questions
-- solving the right problems
-
-CONCEPTS
-- problem definition
-- explore similar problems
-- anticipate results (form a hypothesis)
-
-TOOLS
-- make a list
-- ask a friend
-- socratic questioning
-- design rationale
-```
-
-## Overview
-
-As you start to explore a system it's likely that you'll have some questions. As you learn some questions will be answered, but some will not. This might highlight parts of the system that could improve. If so, then the next step is to figure out what the problem is and [how to solve it](https://en.wikipedia.org/wiki/How_to_Solve_It). It's important to spend a lot of time on this because solving problems starts with [asking questions](https://fs.blog/2019/09/power-questions/). You can't solve something you don't understand.
-
-The most important thing is to have a clear and concise [definition of the problem](https://en.wikipedia.org/wiki/Problem_statement) you're trying to [solve](https://en.wikipedia.org/wiki/Problem_solving). It should be obvious. If you're unclear about what you're doing and why everything else is more difficult. Once you have a clear problem definition you can explore similar problems. This might provide intuition around how other problems were solved and the results of implementing various solutions. This can then help you form a [hypothesis](https://en.wikipedia.org/wiki/Hypothesis) of what is likely to help solve your problem.
-
-There are several tools and techniques that can help you define your problem and identify likely solutions. The first is to just write it down. Try to define the problem in a single sentence and make a list of things of similar problems and their solutions. Then ask a friend and see what they have to say. Apply [Socratic questioning](https://en.wikipedia.org/wiki/Socratic_questioning) to further explore the problem and your thinking around it. Then once you have a few good ideas produce a design rationale explaining your thought process, the ideas considered, and why you think a particular solution might work well. Then you have a clear problem definition and solution hypothesis.
+There are several tools and techniques that can help you define your problem and identify likely solutions. The first is to just write it down. Try to define the problem in a single sentence and make a list of things of similar problems and their solutions. Then ask a friend and see what they have to say. Apply [Socratic questioning](https://en.wikipedia.org/wiki/Socratic_questioning) to further explore the problem and your thinking around it. Then once you have a few good ideas produce a [design rationale](https://en.wikipedia.org/wiki/Design_rationale) explaining your thought process, the ideas considered, and why you think a particular solution might work well. Then you'll have a clear problem definition and solution hypothesis to test out.
 
 ## Concepts
 
@@ -91,3 +67,22 @@ A [design rationale](https://en.wikipedia.org/wiki/Design_rationale) explains th
 - the trade offs evaluated, an
 - the argumentation that led to the decision
 
+## Notes
+
+```
+MOTIVATION
+- knowledge is power
+- asking the right questions
+- solving the right problems
+
+CONCEPTS
+- problem definition
+- explore similar problems
+- anticipate results (form a hypothesis)
+
+TOOLS
+- make a list
+- ask a friend
+- socratic questioning
+- design rationale
+```

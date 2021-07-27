@@ -1,32 +1,14 @@
 # Monitor
 
-![](img/cag-map-0.0.3-monitor.png)
-
-> Picture of the Monitor section (with pictures and colors) goes here. This can prime the reader for the next section and might also help to break up an otherwise monotonous wall of text.
-
-## Notes
-
-```
-MOTIVATION
-- feedback
-
-CONCEPTS
-- success
-- failure
-
-TOOLS
-- automated alerts
-- recurring runs
-- manual review
-```
-
-## Overview
+![](https://i.imgur.com/iYqVRRM.png)
 
 [Science](https://en.wikipedia.org/wiki/Science) wouldn't work if we ran experiments but didn't bother to record the results. Same goes for governance. There needs to be a [feedback loop](https://en.wikipedia.org/wiki/Feedback) between decisions and results. Monitoring allows you to verify the results of decisions to see if they had their intended effects.
 
-If a proposal succeeds you'll want to see if it actually has the effect you intended. If so, then great. If not, then you're back to the ask stage to understand why it's not having the effect you intended. If a proposal doesn't succeed that's OK too. If you have a hypothesis of what will happen if the problem is not solved then you can validate that as well. This can provide more data to support your original proposal, potentially allowing you to resubmit a modified version with more evidence to back it up.
+If a proposal succeeds you'll want to see if it actually has the effect you intended. If so, then great. If not, then figure out why.
 
-There are a few tools that can help with this process. You'll want to automate some things like alters and recurring model runs, but others will be more manual like engaging with the community to understand sentiment. Both are important to provide context for your next questions and proposals.
+If a proposal doesn't succeed that's OK too. If you had a hypothesis of what will happen if your proposal does not pass then you can validate that. This can provide data to support your original proposal, potentially allowing you to resubmit a modified version with more evidence (*"I told you so!"*).
+
+Monitoring complex systems is a lot of work, but there's tools that can help. You'll probably want to automate things like feeding raw data into recurring model runs and alerts based on key metrics - and you'll probably want to manually read community discussions to understand context and sentiment. Analysis of both objective data and subjective social activity are important to understand the global view of a system. One without the other is likely to lead to a [local optimum](https://en.wikipedia.org/wiki/Local_optimum).
 
 ## Concepts
 
@@ -52,3 +34,18 @@ If you can get a raw data-feed from the system, you might be able to pipe that i
 
 Not all data is packaged in a convenient numerical format. Sometimes you need to also review human readable proposals and/or gauge sentiment on community forums and chats. This can sometimes provide insight related to the satisfaction and/or desires of stakeholders. This is important because governance proposals determine how resources are distributed between stakeholders so even if the results are technically what was expected, if stakeholders are unhappy then it's important to understand why and take that into consideration. 
 
+## Notes
+
+```
+MOTIVATION
+- feedback
+
+CONCEPTS
+- success
+- failure
+
+TOOLS
+- automated alerts
+- recurring runs
+- manual review
+```

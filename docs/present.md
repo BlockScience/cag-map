@@ -1,36 +1,13 @@
-# Present 
+![](https://i.imgur.com/1KT3nVI.png)
 
-![](img/cag-map-0.0.3-present.png)
+# Present
 
-> Picture of the Present section (with pictures and colors) goes here. This can prime the reader for the next section and might also help to break up an otherwise monotonous wall of text.
+Both [political feasibility](https://en.wikipedia.org/wiki/Political_feasibility_analysis) and [incentive compatibility](https://en.wikipedia.org/wiki/Incentive_compatibility) matter in socio-economic systems. Data is only half the battle. What takes priority will not just depend on who can best define the goal ([strategy](https://en.wikipedia.org/wiki/Strategy)) and the steps to get there ([tactics](https://en.wikipedia.org/wiki/Tactic_(method))), but also who can best communicate it and align the relevant [powers](https://en.wikipedia.org/wiki/Power_(social_and_political)) around it (aka [politics](https://en.wikipedia.org/wiki/Politics)). In the context of computer *aided* governance this is essential. If people don't understand what you're talking about they won't be able to productively or intelligently engage with your work. Less engagement leads to lower chances of your ideas spreading and lower chances of your proposal passing. Make it easy for people to engage with your work by showing your work. List references, specify assumptions, and make your data and code accessible. A big factor in your success will just be making it easy for people to understand and engage with your proposal.
 
-## Notes
+Once you have a clear proposal with a clear purpose and process, share your work. This implies you [know who your audience is](https://seths.blog/2017/07/in-search-of-the-minimum-viable-audience/). You weren't just writing for yourself in a vacuum of inspired anger were you? Of course not. You have an important message that's both interesting and informative. You know exactly who it's for and why they care so deeply about this topic. Your simple structured message will resonate and inspire them to action just like you were inspired to write your proposal. Right?
 
-```
-MOTIVATION
-- if a tree falls in a forest
-- clear communication
+Right, so there's many tools that can help you improve your writing to get there. Some are focused on mechanics and some are more for overall structure. Both are good. Start with checking your spelling, [grammar](https://www.grammarly.com/), and [run-on sentences](https://hemingwayapp.com/). From there it helps a lot to read good writing. Good writing is subjective so this is going to be dependent on your personal preferences, and more importantly, your audience.  
 
-CONCEPTS
-- know your audience
-- show your work
-- keep it simple
-- keep it structured
-
-TOOLS
-- check spelling
-- check grammar
-- keep it simple
-- read good writing
-```
-
-## Overview
-
-Both [political feasibility](https://en.wikipedia.org/wiki/Political_feasibility_analysis) and [incentive compatibility](https://en.wikipedia.org/wiki/Incentive_compatibility) matter in socio-economic systems. Data is only half the battle. What takes priority will not just depend on who can best define the goal ([strategy](https://en.wikipedia.org/wiki/Strategy)) and the steps to get there ([tactics](https://en.wikipedia.org/wiki/Tactic_(method))), but also who can best communicate it and align the relevant [powers](https://en.wikipedia.org/wiki/Power_(social_and_political)) around it. In the context of computer *aided* governance this is essential. If people don't understand what you're talking about they won't be able to productively or intelligently engage with your work. Less engagement leads to lower chances of your proposal passing. Making your purpose, process, and hypothesis clear is the first step towards success.
-
-Then you need to share your work. This implies that there is an audience. [Knowing your audience](https://seths.blog/2017/07/in-search-of-the-minimum-viable-audience/) can help you craft your message in a way that's accessible. The key is to make content that is both interesting and informational. People need to care. Keeping things simple, structuring your content, and showing your work is a good first step.
-
-There's many tools that can help you improve your writing. Some are focused on mechanics and some are more for overall structure. Both are good. Start with checking your spelling, [grammar](https://www.grammarly.com/), and [run-on sentences](https://hemingwayapp.com/). From there it helps a lot to read good writing. Good writing is subjective so this is going to be dependent on your personal preferences, and more importantly, your audience.
 
 ## Concepts
 
@@ -90,3 +67,22 @@ The [Hemingway app](https://hemingwayapp.com/) can help you check for long run o
 - [Save time by writing better](https://blog.luisivan.net/saving-time-by-writing-better-11bce34f4631) - No one wants to read your disorganized writing. Good writing shows that you care. It's a sign of respect to the reader.
 - [The work required to have an opinion](https://fs.blog/2013/04/the-work-required-to-have-an-opinion/) - If you understand multiple perspectives on a subject you can anticipate and address likely questions and critiques.
 
+## Notes
+
+```
+MOTIVATION
+- if a tree falls in a forest
+- clear communication
+
+CONCEPTS
+- know your audience
+- show your work
+- keep it simple
+- keep it structured
+
+TOOLS
+- check spelling
+- check grammar
+- keep it simple
+- read good writing
+```

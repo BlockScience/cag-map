@@ -1,14 +1,10 @@
-## Repeat
+![](https://i.imgur.com/JvY17As.jpg)
 
-![](img/cag-map-0.0.3-ask.png)
+# Repeat
 
-> Picture of the Ask section (with pictures and colors) goes here. This can prime the reader for the next section and might also help to break up an otherwise monotonous wall of text.
+CAG MAP is a data driven political process. [The goal is to help stakeholders understand, improve, and maintain the systems they care about](https://www.youtube.com/watch?v=xQuuQvEDwkY).
 
-Based on observations you'll gain new data, have new questions, create new models, proposals, etc..
+In a pluralistic society there is no such thing as the indisputable public good. It's up to stakeholders to advocate for their interests. If interests are aligned things might work out, but if not your then road will be very difficult. Always seek to align interests.
 
-CAG MAP is a data driven political process. The goal is to help stakeholders understand, improve, and maintain the systems they care about.
+Creating proposals that align interests requires critical thinking. Critical thinking requires being critical. CAG MAP can help you use a data driven process to write, analyze, and critique proposals. This isn't guaranteed to be great, but it is guaranteed to be better than just arguing. Good luck out there.
 
-In a pluralistic society there is no such thing as the indisputable public good. It's up to stakeholders to advocate for their interests. The most successful proposals will balance data driven insights with political feasibility.
-
-The political process is not something that should be avoided. It's essential for a healthy political economy. Critical thinking requires being critical. Good proposals should embrace critique and hold up to scrutiny. CAG MAP can help you write, analyze, and critique proposals. This can help you understand, improve, and maintain the systems you care about.
-      

@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  <link rel="canonical" href="https://example.com/model/">
+  <link rel="shortcut icon" href="../img/favicon.ico">
+  <title>Model - CAG MAP</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../css/theme.css" />
+  <link rel="stylesheet" href="../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Model";
+    var mkdocs_page_input_path = "model.md";
+    var mkdocs_page_url = "/model/";
+  </script>
+  
+  <script src="../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href=".." class="icon icon-home"> CAG MAP</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../observe/">Observe</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../ask/">Ask</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../map/">Map</a>
+                    </li>
+                </ul>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Model</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#concepts">Concepts</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#legibility">Legibility</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#assumptions">Assumptions</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#ergodicity">Ergodicity</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#specificity">Specificity</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#ab-testing">A/B Testing</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#data-generation">Data generation</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#reflexivity">Reflexivity</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#tools">Tools</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#cadcad">cadCAD</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#labs">Labs</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#tokenspice">tokenSPICE</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#notes">Notes</a>
+    </li>
+    </ul>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../present/">Present</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../debate/">Debate</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../enact/">Enact</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../monitor/">Monitor</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../repeat/">Repeat</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="..">CAG MAP</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="..">Docs</a> &raquo;</li>
+    
+      
+    
+    <li>Model</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+
+          <div role="main">
+            <div class="section">
+              
+                <p><img alt="" src="https://i.imgur.com/mbGwWXX.png" /></p>
+<h1 id="model">Model</h1>
+<p><a href="https://en.wikipedia.org/wiki/Modeling_and_simulation">Models</a> are like <a href="https://en.wikipedia.org/wiki/Thought_experiment">thought experiments</a>, but with code. Something in between a white paper and a working implementation. This is great if you want to test an idea before building it, or want to test variations on an idea to see which might be best.</p>
+<p>When creating a model, the point is to help you explore an idea, but also to help others do the same. As such it needs to be legible. The assumptions the model depends on as well as the things the model is specifically exploring should be made explicit. This way it's easier to <a href="https://en.wikipedia.org/wiki/A/B_testing">A/B test</a> the model assumptions and parameters.</p>
+<p>There are many tools to create models. <a href="https://www.mathworks.com/products/matlab.html">MatLab</a> is popular, but expensive. <a href="https://cadcad.org/">cadCAD</a> is newer, and open source. There's also stand alone frameworks like <a href="https://github.com/oceanprotocol/tokenspice">tokenSPICE</a> that begin to incorporate EVM testnets into modeling and cadCAD services like <a href="https://blocksciencelabs.com/">BlockScience Labs</a> that make it easier to automatically run models based on real world data. What's best for you will be dependent on the context in which you're operating. Regardless of what tools you choose, the model should be easy to read and run. That way people can engage with and contribute to your work.</p>
+<h2 id="concepts">Concepts</h2>
+<h3 id="legibility">Legibility</h3>
+<p>A model is a living document. It conveys information, but you can also modify and interact with it to learn new information. The results of running a model are only a small part of it's value. Most of the value comes from people's ability to explore and modify the parameters and assumptions within the model to better understand something. This requires your model to be legible. Check out the <code>[insert python/cadCAD code syntax and best practices guide here]</code> to see some examples.</p>
+<ul>
+<li>Is your model structured so that it's easy to interact with?</li>
+<li>Could people easily modify it to test your assumptions and their own?</li>
+</ul>
+<h3 id="assumptions">Assumptions</h3>
+<p>Models make assumptions about the world in order to focus on the thing that is being modeled. The model is a representation of a thing, not the thing itself. Just like with a map, it's important to specify what you included, what you left out, and why. It's also important to specify what you're assuming to be true and/or external states/environments that you assume the model is operating within.</p>
+<ul>
+<li>What does your model assume or require to be true?</li>
+<li>Are these assumptions stated explicitly?</li>
+</ul>
+<h3 id="ergodicity">Ergodicity</h3>
+<p>Visit all parts of the space that the system moves in, in a uniform and random sense. A sufficiently large collection of random samples from a process can represent the average statistical properties of the entire process. Then you understand the full range of the state space and what states are more likely with what parameters.</p>
+<p>https://en.wikipedia.org/wiki/Ergodicity</p>
+<h3 id="specificity">Specificity</h3>
+<p>Specificity is opposite of assumptions. It's what the model is exploring in detail. </p>
+<ul>
+<li>What question is the model exploring?</li>
+<li>What did you choose to be specific about in relation to this question?</li>
+<li>Is your model specific enough that it defines the problem and the potential solution?</li>
+</ul>
+<h3 id="ab-testing">A/B Testing</h3>
+<p><a href="https://en.wikipedia.org/wiki/A/B_testing">A/B testing</a> allows you to test multiple variations of a thing. This is very important if you see how a proposed solution might behave under a wide range of assumptions. Be aware that A then B is not the same as testing A and B simultaneously. Statefulness and ordering is important. The later compares A and B against the same data and this is what we're talking about when we say A/B testing.</p>
+<ul>
+<li>Test the same idea under multiple contexts.</li>
+<li>Test multiple ideas within the same context.</li>
+</ul>
+<h3 id="data-generation">Data generation</h3>
+<p>Models also allow you to generate new data. This can be useful if you want to test alternate scenarios and explore the state space more than what would be possible with historical data. </p>
+<p>If your assumptions are made explicit then you can also test your model in different contexts. That way you can have a better idea of under what macro conditions your assumptions might hold.</p>
+<h3 id="reflexivity">Reflexivity</h3>
+<p>Reflexivity happens when multiple variables within the model feed into each other. This can create exponential amplification or suppression of metrics. This throws off wild data that makes it difficult to gain any understanding from the model. If there's any reflexivity involved make sure it's there for a very good reason and you understand exactly how it works.</p>
+<ul>
+<li>Are there any portions of your model that are self referential or that refer to each other in a loop?</li>
+</ul>
+<h2 id="tools">Tools</h2>
+<h3 id="cadcad">cadCAD</h3>
+<p><a href="https://cadcad.org/">cadCAD</a> is an open-source Python package that assists in the processes of designing, testing and validating complex systems through simulation. Download it, check out demos, and fork snippets into your own models from the <a href="https://github.com/cadCAD-org">cadCAD repos</a>.</p>
+<h3 id="labs">Labs</h3>
+<blockquote>
+<p>Is there public data/tooling available for BlockScience Labs yet?</p>
+</blockquote>
+<h3 id="tokenspice">tokenSPICE</h3>
+<p><a href="https://en.wikipedia.org/wiki/Token">Token</a> - A thing that represents a thing.</p>
+<p><a href="https://en.wikipedia.org/wiki/SPICE">SPICE</a> - "Simulation Program with Integrated Circuit Emphasis"</p>
+<p>Ocean Protocol has created tokenSpice to model their token system dynamics. It's agent based and V2 even has EVM integration with Ganache. Check out the code and fork it for your experiments here:</p>
+<ul>
+<li><a href="https://github.com/oceanprotocol/tokenspice">tokenSPICE V1</a></li>
+<li><a href="https://github.com/oceanprotocol/tokenspice2">tokenSPICE V2</a></li>
+</ul>
+<h2 id="notes">Notes</h2>
+<pre><code>MOTIVATION
+- thought experiment with code
+- interactive doc
+
+CONCEPTS
+- legibility
+- assumptions
+- specificity
+- A/B testing
+- ergodicity
+- reflexivity
+
+TOOLS
+- MatLab
+- cadCAD
+- Labs
+- tokenSPICE
+</code></pre>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../present/" class="btn btn-neutral float-right" title="Present">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../map/" class="btn btn-neutral" title="Map"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../map/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../present/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme_extra.js" defer></script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>

@@ -1,30 +1,14 @@
 # Enact
 
-![](img/cag-map-0.0.3-enact.png)
-
-> Picture of the Enact section (with pictures and colors) goes here. This can prime the reader for the next section and might also help to break up an otherwise monotonous wall of text.
-
-## Notes
-
-```
-MOTIVATION
-- fortune favors the bold
-
-CONCEPTS
-- legitimacy
-- politics
-
-TOOLS
-- it depends
-```
-
-## Overview
+![](https://i.imgur.com/0UX9M39.png)
 
 Decisions!
 
-Actions are required to create change. Once an idea has been debated and refined it needs to be enacted. Regardless of the governance process of a system, decision making is going to be political. That's OK. Just remember to be hard on the ideas and easy on the people. Throughout history those who attack people are generally less well regarded than those who attack problems and change systems.
+Actions are required to create change. Once an idea has been debated and refined it needs to be enacted. Ideally this process is viewed as legitimate by the stakeholders of the system. If so, then engage in that process to voice your preferences. If the process is not viewed as legitimate, then find a new system to engage with because without a legitimate governance process you're living in a world of pure power where the 800 lb gorilla rules.
 
-How decisions are made in any specific system is going to be unique. It's very important that you understand this context so that you can engage productively. This last part is important because without it nothing happens.
+The specific mechanisms used to make decisions in any specific system are going to be unique. It's very important that you understand how they work so that you can engage with them productively. You're on your own to figure that out.
+
+Also, be aware that just because a decision is made does not mean it will create the outcomes you want. You probably have a theory about what could, should, or will happen - but it's not until you test it out that you'll know. And even then it's unclear! For non-deterministic decisions with execution risk it can be hard to tell if success or failure was caused by the execution of the decision or the decision itself.
 
 ## Concepts
 
@@ -45,4 +29,18 @@ It's important to understand how politics works in general, and then how politic
 ## Tools
 
 The process to enact proposals is dependent on the governance process of each system and therefore outside the scope of this article. That being said, it is a very important step! If you have a convoluted governance process or voting weight is not well distributed among stakeholders then success is unlikely. There isn't much that intelligent analysis, proposals, and questions can do to fix a system that is fundamentally broken. If there is a strong foundation, however, then computer aided governance can help you engage within that system productively.
+
+## Notes
+
+```
+MOTIVATION
+- fortune favors the bold
+
+CONCEPTS
+- legitimacy
+- politics
+
+TOOLS
+- it depends
+```
 

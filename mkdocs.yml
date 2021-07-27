@@ -2,7 +2,6 @@ site_name: CAG MAP
 site_url: https://example.com/
 nav:
     - Home: index.md
-    - About: about.md
     - Observe: observe.md
     - Ask: ask.md
     - Map: map.md

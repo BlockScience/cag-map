@@ -1,36 +1,12 @@
+![](https://i.imgur.com/EwdgbVg.png)
+
 # Map
 
-![](img/cag-map-0.0.3-map.png)
+[Maps](https://en.wikipedia.org/wiki/Map) can help you quickly communicate a lot of information quickly and intuitively. A pictures says a thousand words etc..
 
-> Picture of the Map section (with pictures and colors) goes here. This can prime the reader for the next section and might also help to break up an otherwise monotonous wall of text.
+Maps are not a perfect representation of a thing. They're an abstraction that communicates the main ideas. This can make it easier for your audience to quickly understand and remember what's going on. It can also provide context around how your ideas fit in with the rest of the system.
 
-## Notes
-
-```
-MOTIVATION
-- a picture says a thousand words
-- highlight main ideas
-- keep it simple
-
-CONCEPTS
-- draw a picture
-- map != territory
-
-TOOLS
-- comic
-- flow chart
-- causal loop
-- stock and flow
-- functional
-```
-
-## Overview
-
-A picture says a thousand words. The same is true for [maps](https://en.wikipedia.org/wiki/Map). They can convey a lot of information quickly and intuitively.
-
-Maps are not a perfect representation of a thing. They're an abstraction that communicates the main ideas. Creating a map can help you clarify what the main ideas are. It can also make it easier for your audience to quickly understand and remember the main ideas as well.
-
-Maps don't need to be fancy. They just need to be clear. They should only include the most important things. This often includes the components of the system as well as the relationships between them. This might look like a simple [sketch](https://en.wikipedia.org/wiki/Sketch_(drawing)), [flow chart](https://en.wikipedia.org/wiki/Flowchart), [functional block diagram](https://en.wikipedia.org/wiki/Functional_block_diagram), [causal loop diagram](https://en.wikipedia.org/wiki/Causal_loop_diagram), [stock and flow diagram](https://en.wikipedia.org/wiki/Stock_and_flow), or even [interactive media](https://distill.pub/2020/communicating-with-interactive-articles/). Whatever you want. The important thing is to clearly illustrate the ideas you want to communicate.
+Maps don't need to be fancy. They just need to be clear. They should only include the most important things. This often includes the components of the system as well as the relationships between them. This might look like a simple [sketch](https://en.wikipedia.org/wiki/Sketch_(drawing)), [stakeholder map](https://en.wikipedia.org/wiki/Stakeholder_analysis#Stakeholder_mapping), [flow chart](https://en.wikipedia.org/wiki/Flowchart), [functional block diagram](https://en.wikipedia.org/wiki/Functional_block_diagram), [causal loop diagram](https://en.wikipedia.org/wiki/Causal_loop_diagram), [stock and flow diagram](https://en.wikipedia.org/wiki/Stock_and_flow), or even [interactive media](https://distill.pub/2020/communicating-with-interactive-articles/). Sometimes it is helpful to  have different diagram/mapping tools to help you understand various aspects of your system - don't try to fit *everything* onto one map! The important thing is to clearly illustrate the ideas you want to communicate.
 
 ## Concepts
 
@@ -84,4 +60,24 @@ A [stock and flow](https://en.wikipedia.org/wiki/Stock_and_flow) diagram shows t
 ### Miro
 
 [Miro](https://miro.com/) is visual brainstorming software that can create diagrams and pretty pictures.
+
+## Notes
+
+```
+MOTIVATION
+- a picture says a thousand words
+- highlight main ideas
+- keep it simple
+
+CONCEPTS
+- draw a picture
+- map != territory
+
+TOOLS
+- comic
+- flow chart
+- causal loop
+- stock and flow
+- functional
+```
 

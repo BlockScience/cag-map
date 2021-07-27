@@ -1,39 +1,10 @@
+![](https://i.imgur.com/bCTpCHw.png)
+
 # Observe
 
-![](img/cag-map-0.0.3-observe.png)
+In the context of socio-economic systems, the first step is to understand what is being governed by whom, and how. Even the choice to have "no governance" is a type of governance, it's just informal governance. As you explore you'll find a lot of information. Some will be [true](https://en.wikipedia.org/wiki/Fact) and some will be [truthy](https://en.wikipedia.org/wiki/Truthiness). Knowing the difference is key. Some common resources that can help you figure this out are a white paper, documentation, source code, maps/models, research reports, system data, and community chats. Each of these sources has a perspective on the system, but only by combining multiple perspectives can you start to understand what's really going on. When in doubt go to the source of the data and build up your thinking from [first principles](https://en.wikipedia.org/wiki/First_principle).
 
-> Picture of the Observe section (with pictures and colors) goes here. This can prime the reader for the next section and might also help to break up an otherwise monotonous wall of text.
-
-## Notes
-
-```
-MOTIVATION
-- maps are useful
-- more information better decisions
-
-CONCEPTS
-- facts vs opinions
-- stakeholder analysis
-- resource management
-- governance processes
-
-TOOLS
-- white paper
-- docs
-- source code
-- activity
-- maps and models
-- research reports
-- community chats 
-```
-
-## Overview
-
-If you want to go on an adventure the first step is often to get a [map](https://en.wikipedia.org/wiki/Map). Then once you know where you are you can navigate to your destination. This also applies to computer aided governance. If you want a system to achieve a goal, first you need to understand how it works. Then you'll know what to change to create the changes you want to see.
-
-Systems with governance imply that there is something being governed. This allows us to leverage [socioeconomics](https://en.wikipedia.org/wiki/Socioeconomics) to understand the people in a system, the resources they're sharing, and how they make decisions to manage those resources. As you explore you'll find a lot of information. Some will be true, and some will be [truthy](https://en.wikipedia.org/wiki/Truthiness). Knowing the difference is key. From there you can understand the incentives and opinions of stakeholders, the tangible and intangible resources they care about, and how decisions get made. If it seems like [incentives](https://en.wikipedia.org/wiki/Incentive) are aligned, there's a common ground of [knowledge](https://en.wikipedia.org/wiki/Knowledge), and [power](https://en.wikipedia.org/wiki/Power_(social_and_political)) structures are transparent - then you might want to engage in computer *aided* governance. If not, however, then be warned: [there be dragons](https://en.wikipedia.org/wiki/Here_be_dragons).
-
-Everyone has their own incentives and opinions. You're going to need multiple perspectives and sources to determine what is relevant to you. Some common examples are a white paper, documentation, source code, maps/models, research reports, system activity, and community chats. Each of these sources has a perspective on the system, but only by combining multiple perspectives can you start to understand what's really going on. When in doubt go to the source of the data and build up your thinking from [first principles](https://en.wikipedia.org/wiki/First_principle).
+After doing some research you'll start to understand how things work at a technical level, how people think they could/should/would work at an emotional level, and how people's actions (based on their perceptions and preferences) shape the system's fundamentals in a [reflexive loop](https://www.georgesoros.com/2014/01/13/fallibility-reflexivity-and-the-human-uncertainty-principle-2/). If it seems like [incentives](https://en.wikipedia.org/wiki/Incentive) are actually aligned, there's a common ground of [knowledge](https://en.wikipedia.org/wiki/Knowledge), and [power](https://en.wikipedia.org/wiki/Power_(social_and_political)) structures are transparent - then you might want to engage in Computer-*Aided* Governance. If not, however, be warned: [there be dragons](https://en.wikipedia.org/wiki/Here_be_dragons).
 
 ## Concepts 
 
@@ -130,3 +101,25 @@ Looking at primary sources is often recommended as the first step to understandi
 
 Beyond looking at technical specifications or external research, you can sometimes engage with system users directly. Many open source software projects have community chats or forums where people can ask questions and share information. Be aware that accounts on forums are often not verified to see if they actually use the product/project. In addition, the team building/maintaining a product/project might also moderate content or censor information available on official community channels. Community feedback and information can be helpful to build intuition, but, as always, take everything you read with a grain of salt.
 
+## Notes
+
+```
+MOTIVATION
+- maps are useful
+- more information better decisions
+
+CONCEPTS
+- facts vs opinions
+- stakeholder analysis
+- resource management
+- governance processes
+
+TOOLS
+- white paper
+- docs
+- source code
+- activity
+- maps and models
+- research reports
+- community chats 
+```
