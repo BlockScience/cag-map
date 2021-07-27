@@ -11,4 +11,5 @@ nav:
     - Enact: enact.md
     - Monitor: monitor.md
     - Repeat: repeat.md
+    - Thanks: thanks.md
 theme: readthedocs
