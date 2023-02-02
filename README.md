@@ -12,11 +12,13 @@ It's WIP, but you can check it out here: https://blockscience.github.io/cag-map/
 
 Please feel free to read, share, open an issue, submit a PR, or even fork it.
 
-## Articles & Further Resources
+## Articles
 
 - 📝[Computer Aided Governance: A Revolution in Automated Decision-Support Systems](https://medium.com/block-science/computer-aided-governance-cag-a-revolution-in-automated-decision-support-systems-9faa009e57a2) - An article exploring the future of data-driven governance in distributed organizations.
 - 📝[Mapping the Computer-Aided Governance Process](https://medium.com/block-science/mapping-the-computer-aided-governance-process-2e47eaf70889) - An article providing a Framework for Participatory Decision Making.
 - 📝[Computer-Aided Governance in Action](https://medium.com/block-science/computer-aided-governance-in-action-steering-complex-systems-using-the-cag-map-e125f9d62f2) - An article on Steering Complex Systems Using the CAG Map.
+
+## Videos & Further Resources
 
 - 📺[Computer Aided Governance: Data Science meets Mechanism Design](https://www.youtube.com/watch?v=hRF-jZHZ3co) - A 45min presentation exploring the motivations for CAG and how cadCAD can help inform a data driven decision making process.
 - 📺[Socio-technical Systems: Engineering, Analysis and Ethics](https://youtu.be/6qx-kp0j4eE)
